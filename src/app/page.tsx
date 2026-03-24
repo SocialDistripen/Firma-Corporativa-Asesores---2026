@@ -112,18 +112,18 @@ function generarFirmaHTML(data: SignatureData): string {
             <tbody>
               <tr>
                 <td style="width:25%;text-align:center;vertical-align:middle;padding:5px">
-                  <img src="https://distripen.com/img/cms/Firma%20Asesores%202025/EQA.png" width="32" height="32" alt="EQA" style="height:32px;width:auto;max-width:100%;display:block;margin:0 auto;">
+                  <img src="https://distripen.com/img/cms/Firma%20Asesores%202025/EQA.png" alt="EQA" style="height:50px;width:auto;max-width:100%;display:block;margin:0 auto;">
                   
                 </td>
                 <td style="width:25%;text-align:center;vertical-align:middle;padding:5px">
-                  <img src="https://distripen.com/img/cms/Firma%20Asesores%202025/Fenalco.png" alt="Fenalco Solidario" width="28" height="28" style="height:28px;width:auto;max-width:100%;display:block;margin:0 auto;">
+                  <img src="https://distripen.com/img/cms/Firma%20Asesores%202025/Fenalco.png" alt="Fenalco Solidario" style="height:35px;width:auto;max-width:100%;display:block;margin:0 auto;">
                   
                 </td>
                 <td style="width:25%;text-align:center;vertical-align:middle;padding:5px">
-                  <img src="https://distripen.com/img/cms/Firma%20Asesores%202025/Smeta.png" alt="SMETA" width="24" height="24" style="height:24px;width:auto;max-width:100%;display:block;margin:0 auto;">
+                  <img src="https://distripen.com/img/cms/Firma%20Asesores%202025/Smeta.png" alt="SMETA" style="height:30px;width:auto;max-width:100%;display:block;margin:0 auto;">
                 </td>
                 <td style="width:25%;text-align:center;vertical-align:middle;padding:5px">
-                  <img src="https://distripen.com/img/cms/Firma%20Asesores%202025/ecovadis.png" alt="Ecovadis" width="20" height="20" style="height:20px;width:auto;max-width:100%;display:block;margin:0 auto;">
+                  <img src="https://distripen.com/img/cms/Firma%20Asesores%202025/ecovadis.png" alt="Ecovadis" style="height:21px;width:auto;max-width:100%;display:block;margin:0 auto;">
                 </td>
               </tr>
               <tr>
