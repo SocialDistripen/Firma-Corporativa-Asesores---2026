@@ -170,7 +170,7 @@ function generarFirmaHTML(data: SignatureData): string {
             </a>
           </p>
           <!-- AVISO LEGAL -->
-          <p>
+          <p style="margin-top:15px;margin-right:0;margin-bottom:0;margin-left:0;text-align:justify;">
   Si desea diligenciar la encuesta de calidad, por favor ingrese 
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeNvfBzRDKwUUuG8LSlFoF6YeNLKvHOywDGpjSJ2uvO107gZg/viewform" target="_blank">
     aquí
