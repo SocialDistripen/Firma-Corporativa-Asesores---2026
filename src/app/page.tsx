@@ -247,22 +247,22 @@ export default function Home() {
   const campos = [
     {
       name: "nombre",
-      label: "Nombre completo de la asesora",
+      label: "Nombre asesor/a",
       placeholder: "Ej: Ana María Arias",
       required: true,
       type: "text",
     },
     {
       name: "telefono",
-      label: "Teléfono / WhatsApp",
-      placeholder: "Ej: 310 674 9048 | (601) 482 4377",
+      label: "Celular Corporativo",
+      placeholder: "Ej: 310 000 0000 | (601) 482 4377",
       required: false,
       type: "text",
     },
     {
       name: "fotoUrl",
       label: "URL de la foto de perfil de la asesora",
-      placeholder: "Ej: https://distripen.com/img/cms/.../foto.png",
+      placeholder: "Ej: https://distripen.com/img/cms/...",
       required: false,
       type: "url",
     },
@@ -309,7 +309,7 @@ export default function Home() {
           <div className="mt-5 bg-blue-50 border border-blue-200 rounded-lg p-3 text-xs text-blue-700">
             <strong>💡 Tip:</strong> El logo de Distripen, los certificados, banners y aviso legal
             se incluyen automáticamente en todas las firmas. Solo necesitas cambiar los datos
-            personales de cada asesora.
+            personales.
           </div>
 
           {!camposRequeridos && (
