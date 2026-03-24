@@ -261,7 +261,7 @@ export default function Home() {
     {
       name: "telefono",
       label: "Celular Corporativo",
-      placeholder: "Ej: 310 000 0000 | (601) 482 4377",
+      placeholder: "Ej: 310 000 0000",
       required: false,
       type: "text",
     },
