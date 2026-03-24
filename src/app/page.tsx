@@ -285,7 +285,7 @@ export default function Home() {
         />
         <h1 className="text-2xl font-bold text-gray-800">Generador de Firma de Correo</h1>
         <p className="text-gray-700 text-sm mt-1">
-          Llena los datos de la asesora, previsualiza y copia la firma con un clic
+          Llena los datos, previsualiza y copia la firma con un clic
         </p>
       </div>
 
